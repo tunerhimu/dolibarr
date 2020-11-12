@@ -1,9 +1,6 @@
-# DOLIBARR ERP & CRM
+# HimuOneR ERP & CRM
 
-![Downloads per day](https://img.shields.io/sourceforge/dw/dolibarr.svg)
-![Build status](https://img.shields.io/travis/Dolibarr/dolibarr/develop.svg)
-[![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%205.6-8892BF.svg?style=flat-square)](https://php.net/)
-[![GitHub release](https://img.shields.io/github/v/release/Dolibarr/dolibarr)](https://github.com/Dolibarr/dolibarr)
+
 
 Dolibarr ERP & CRM is a modern software package that helps manage your organization's activity (contacts, suppliers, invoices, orders, stocks, agenda…).
 
@@ -198,11 +195,11 @@ See [COPYRIGHT](https://github.com/Dolibarr/dolibarr/blob/develop/COPYRIGHT) fil
 
 Follow Dolibarr project on:
 
-- [Facebook](https://www.facebook.com/dolibarr)
-- [Twitter](https://www.twitter.com/dolibarr)
+- [Facebook](https://www.facebook.com/tunerhimu)
+- [Twitter](https://www.twitter.com/tunerhimu)
 - [LinkedIn](https://www.linkedin.com/company/association-dolibarr)
-- [YouTube](https://www.youtube.com/user/DolibarrERPCRM)
-- [GitHub](https://github.com/Dolibarr/dolibarr)
+- [YouTube](https://www.youtube.com/tunerhimu)
+- [GitHub](https://github.com/tunerhimu)
 
 ### Sponsors
 
